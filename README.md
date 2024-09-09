@@ -52,7 +52,7 @@ We combined the finetuned SD with ControlNet.
 
 ### 4. **Textual Inversion**
 
-We also experimented with **Textual Inversion**; however, this approach didn’t yield the best results. The primary limitation stemmed from the lack of suitable captions for the images in the dataset. The script for this approach has been uploaded for reference.
+We also experimented with **Textual Inversion** on  `CompVis SD-v1-4`; however the model relied on CLIP for text encoding, which has a token limit. Thus it was working well for text prompts but not yet functional for image input.
 
 ---
 
