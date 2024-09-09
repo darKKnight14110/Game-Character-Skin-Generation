@@ -15,7 +15,7 @@ Welcome to the repository documenting various image generation approaches and th
 
 ### 1. **SD + ControlNet**
 
-We started with the basic approach of combining **Stable Diffusion (SD)** and **ControlNet**. Specifically, we utilized the `CompVis SD-v1-4` model with `lllyasviel control_v11p_sd15_inpaint` ControlNet to tackle the image generation task. 
+We started with the basic approach of combining **Stable Diffusion (SD)** and **ControlNet**. Specifically, we utilized the `CompVis SD-v1-4` model with `lllyasviel control_v11p_sd15_inpaint` ControlNet to tackle the image generation task. Here we utilzed the `mattmdjaga/segformer_b2_clothes` for mask generation
 
 #### Results:
 
