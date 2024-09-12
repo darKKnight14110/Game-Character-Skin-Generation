@@ -1,4 +1,4 @@
-# Image Generation Task Repository
+# Game Character Skin Generation
 
 Welcome to the repository documenting various image generation approaches and the outcomes achieved in our exploration. This project focuses on using advanced Stable Diffusion (SD) and ControlNet methods for generating customized images of Character Skins of various characters from the game: Clash of Clans.
 
